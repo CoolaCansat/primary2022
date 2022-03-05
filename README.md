@@ -1,1 +1,12 @@
 # primary2022
+-The primary mission is a mission to make a can with three sensors that collect data.  
+-The cans are attatched to a drone and flown up into the air and then back down to the ground again.  
+-Social presence is more important than anything else in the project.  
+-It is recommended that you make a twitter and instagram.  
+-The can must fit within a cylinder of 150mm height x 66mm diameter.  
+-The cans weight must be within 300 - 350 grams mass.  
+-You must create a parachute although it is not required for launch.  
+-You must mention the budget of your project.  
+-The cansat presentaion must be under 10 minutes long, this will be presented on the date of the primary launch.  
+-The judges will ask questions partaining to your project (mostly social presence and teamwork questions) for ten minutes after your presentation.  
+-The two best teams will advance and will create secondary missions.
